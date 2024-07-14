@@ -70,7 +70,7 @@ const Cart = () => {
           <h2 className="font-bold text-xl text-rose-700 mb-4">
             Your Cart (0)
           </h2>
-          <img src={emptyCart} alt="Empty cart" className="w-24 h-24 mb-4" />
+          <img src={emptyCart} alt="Empty cart" className="w-24 h-24 mb-4 mx-auto" />
           <p className="text-slate-500">Your added items will appear here</p>
         </div>
       )}
